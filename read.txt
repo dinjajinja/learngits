@@ -1,3 +1,4 @@
 Git is a  distributed version control system.
 Git is free software distributed under the GPL.
-Git is good has a mutable index called stagegit.
+Git is good has a mutable index called stageg.
+Git tracks changes of file.
